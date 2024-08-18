@@ -30,6 +30,8 @@ jobs:
 
     # Step 4: Run the script to update README.md
     - name: Update README.md
+      env:
+        GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
       run: python main.py
 
     # Step 5: Commit and push changes
