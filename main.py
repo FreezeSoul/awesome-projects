@@ -13,6 +13,10 @@ REPO_PATH = Path(__file__).resolve().parent
 
 translator = Translator()
 GITHUB_TOKEN = os.getenv("GIT_TOKEN")
+if not GITHUB_TOKEN:
+    raise ValueError("GIT_TOKEN is not set or is empty")
+
+print(f"GIT_TOKEN: {GITHUB_TOKEN}")  # 调试信息
 
 g = Github(GITHUB_TOKEN)
 
