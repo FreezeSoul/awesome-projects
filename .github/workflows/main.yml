@@ -8,6 +8,11 @@ on:
   # 定时任务，每周五晚上 12 点触发
   schedule:
     - cron: '0 0 * * 5'  # UTC 时间，每周五 00:00
+env:
+  AZURE_WEBAPP_NAME: restapi-prod # webapp name
+  IMAGE_NAME: prod # image name within container registries
+  PUBLISH_PROFILE: ${{ secrets.CN_AZURE_WEBAPP_DOCKER_PROFILE_PROD }} # publish profile
+  GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
 
 jobs:
   update-readme:
@@ -19,8 +24,6 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Check GIT_TOKEN
-      env:
-        GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
       run: echo $GIT_TOKEN
 
     # Step 2: Setup Python
