@@ -35,7 +35,7 @@ def get_repo_description(repo):
             return stripped_line.replace("#", "").strip()
 
 # 准备 Markdown 内容
-markdown_content = "# High-Quality Open Source Project Repositories\n\n# 高质量开源仓库\n\n### 整理感兴趣的高质量开源项目仓库，方便查阅。\n\n|项目名|项目描述|中文项目描述|\n|---|---|---|\n"
+markdown_content = "# High-Quality Open Source Project Repositories\n\n# 高质量开源仓库\n\n### 整理感兴趣的高质量开源项目仓库，方便查阅。\n\n|项目名|项目描述|项目名|中文项目描述|\n|---|---|---|---|\n"
 for repo in starred_repos:
     repo_name = repo.full_name.split("/")[-1]
     repo_url = repo.html_url
@@ -46,7 +46,7 @@ for repo in starred_repos:
             repo_description = repo_description[:100] + "..."
         repo_description_zh = translator.translate(repo_description, dest="zh-CN").text
     # 整理成 Markdown 表格格式|项目名|项目链接|项目描述|中文项目描述|
-    markdown_content += f"|[{repo_name}]({repo_url})|{repo_description}|{repo_description_zh}|\n"
+    markdown_content += f"|[{repo_name}]({repo_url})|{repo_description}|[{repo_name}]({repo_url})|{repo_description_zh}|\n"
 
 # 将 Markdown 内容写入 README.md 文件
 readme_path = os.path.join(REPO_PATH, "README.md")
