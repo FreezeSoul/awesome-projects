@@ -34,7 +34,7 @@ def get_repo_description(repo):
 
 # 准备 Markdown 内容
 markdown_content = "# High-Quality Open Source Project Repositories\n\n# 高质量开源仓库\n\n### 整理感兴趣的高质量开源项目仓库，方便查阅。\n\n|项目名|项目描述|中文项目描述|\n|---|---|---|\n"
-for repo in tqdm(starred_repos, desc="Processing starred repositories", total=len(list(starred_repos))):
+for repo in starred_repos:
     repo_name = repo.full_name.split("/")[-1]
     repo_url = repo.html_url
     
