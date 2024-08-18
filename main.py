@@ -12,7 +12,7 @@ from tqdm import tqdm
 REPO_PATH = Path(__file__).resolve().parent
 
 translator = Translator()
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_TOKEN = os.getenv("GIT_TOKEN")
 
 g = Github(GITHUB_TOKEN)
 
