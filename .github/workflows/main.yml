@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  # 当代码被提交到 main 分支时触发
+  push:
+    branches:
+      - main
+  # 定时任务，每周五晚上 12 点触发
+  schedule:
+    - cron: '0 0 * * 5'  # UTC 时间，每周五 00:00
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Setup Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    # Step 4: Run the script to update README.md
+    - name: Update README.md
+      run: python main.py
+
+    # Step 5: Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "snjyor"
+        git config --local user.email "snjyor@163.com"
+        git add README.md
+        git commit -m "Update README.md"
+        git push origin main
