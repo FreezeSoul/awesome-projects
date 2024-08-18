@@ -18,6 +18,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Check GIT_TOKEN
+      env:
+        GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+      run: echo $GIT_TOKEN
+
     # Step 2: Setup Python
     - name: Set up Python
       uses: actions/setup-python@v4
