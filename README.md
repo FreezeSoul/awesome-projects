@@ -6,6 +6,14 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)|
+|[VideoLingo](https://github.com/Huanshere/VideoLingo)|Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组|[VideoLingo](https://github.com/Huanshere/VideoLingo)|Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组|
+|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|PDF to Audio Converter|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|PDF到音频转换器|
+|[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|
+|[nanogl](https://github.com/plepers/nanogl)|webgl micro framework|[nanogl](https://github.com/plepers/nanogl)|WebGL微框架|
+|[simple-icons](https://github.com/simple-icons/simple-icons)|SVG icons for popular brands|[simple-icons](https://github.com/simple-icons/simple-icons)|流行品牌的SVG图标|
+|[ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting|[ProPainter](https://github.com/sczhou/ProPainter)|[ICCV 2023] Prapainter：改善视频介绍的传播和变压器|
+|[supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|[supervision](https://github.com/roboflow/supervision)|我们编写您可重复使用的计算机视觉工具。💜|
 |[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas is a Cairo backed Canvas implementation for NodeJS.|[node-canvas](https://github.com/Automattic/node-canvas)|节点帆布是开罗备份的nodejs的帆布实现。|
 |[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|
 |[tabler-icons](https://github.com/tabler/tabler-icons)|A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.|[tabler-icons](https://github.com/tabler/tabler-icons)|一组超过5500个免费的MIT许可的高质量SVG图标供您在Web项目中使用。|
@@ -25,7 +33,7 @@
 |[OpenHands](https://github.com/All-Hands-AI/OpenHands)|🙌 OpenHands: Code Less, Make More|[OpenHands](https://github.com/All-Hands-AI/OpenHands)|🙌开放式：少代码，做更多|
 |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !|
 |[Follow](https://github.com/RSSNext/Follow)|🧡 Next generation information browser.|[Follow](https://github.com/RSSNext/Follow)|🧡下一代信息浏览器。|
-|[open-webui](https://github.com/open-webui/open-webui)|User-friendly WebUI for LLMs (Formerly Ollama WebUI)|[open-webui](https://github.com/open-webui/open-webui)|LLMS（以前为Ollama Webui）的用户友好型WebUI|
+|[open-webui](https://github.com/open-webui/open-webui)|User-friendly WebUI for AI (Formerly Ollama WebUI)|[open-webui](https://github.com/open-webui/open-webui)|AI（以前为Ollama Webui）的用户友好型WebUI|
 |[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|
 |[element-react](https://github.com/ElemeFE/element-react)|Element UI|[element-react](https://github.com/ElemeFE/element-react)|元素UI|
 |[pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop)|Fast drag and drop for any experience on any tech stack|[pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop)|快速拖放在任何技术堆栈上的任何经验|
@@ -82,7 +90,7 @@
 |[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL)|Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and...|[Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL)|大型语言模型的策展教程和资源|
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Fundpt：开源金融语言模型！革命🔥我们发布训练的模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|Llama2用深速和Lora填充|
-|[llama-recipes](https://github.com/meta-llama/llama-recipes)|Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node G...|[llama-recipes](https://github.com/meta-llama/llama-recipes)|用于微调Meta Llama3的脚本，具有可组合的FSDP和PEFT方法，以涵盖单个/多节点G ...|
+|[llama-recipes](https://github.com/meta-llama/llama-recipes)|Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GP...|[llama-recipes](https://github.com/meta-llama/llama-recipes)|用于微调Meta Llama的脚本，配合fsdp＆peft方法，以涵盖单个/多节点GP ...|
 |[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的Python异步和事件驱动的框架，重点是加密货币...|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|ADASEQ：一个用于开发最新序列理解模型的多合一库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Animatediff的官方实施。|
@@ -113,7 +121,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)|Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysi...|[pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)|与您的数据库（SQL，CSV，PANDAS，PORARS，MONGODB，NOSQL等）聊天。Pandasai使数据分析...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
