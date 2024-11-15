@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[chatwoot](https://github.com/chatwoot/chatwoot)|Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...|[chatwoot](https://github.com/chatwoot/chatwoot)|开源实时聊天，电子邮件支持，全渠道桌。对讲机，Zendesk，Salesforce ...的替代品...|
 |[screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）|
 |[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Examples with SwiftUI that showcase various interactions, animations and more|[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Swiftui的示例，展示了各种互动，动画等|
 |[suno-api](https://github.com/gcui-art/suno-api)|Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.|[suno-api](https://github.com/gcui-art/suno-api)|使用API​​称为Suno.ai的音乐一代AI，并轻松地将其集成到GPT之类的代理商中。|
@@ -42,7 +43,7 @@
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI /...|[lobe-chat](https://github.com/lobehub/lobe-chat)|🤯LOBE聊天 - 一个开源的现代设计AI聊天框架。支持多AI提供商（OpenAi /...|
 |[Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding)|OCR, Scene-Text-Understanding, Text Recognition|[Scene-Text-Understanding](https://github.com/tangzhenyu/Scene-Text-Understanding)|OCR，场景文本理解，文本识别|
 |[morphic](https://github.com/miurla/morphic)|An AI-powered search engine with a generative UI|[morphic](https://github.com/miurla/morphic)|具有生成UI的AI驱动搜索引擎|
-|[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|Turn your Telegram Channel into a MicroBlog.|[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|将电报频道变成微博。|
+|[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|Turn your Telegram Channel into a MicroBlog.|[BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|将您的电报频道变成微博。|
 |[not-paid](https://github.com/kleampa/not-paid)|Client did not pay? Add opacity to the body tag and decrease it every day until their site completel...|[not-paid](https://github.com/kleampa/not-paid)|客户没有付款？在身体标签上增加不透明度，并每天降低其网站完整...|
 |[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub-webui: 优质视频中文化工具|[YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)|YouDub-webui: 优质视频中文化工具|
 |[openui](https://github.com/wandb/openui)|OpenUI let's you describe UI using your imagination, then see it rendered live.|[openui](https://github.com/wandb/openui)|OpenUI让您使用您的想象力来描述UI，然后看到它现场直播。|
@@ -139,7 +140,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)|Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysi...|[pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)|与您的数据库（SQL，CSV，PANDAS，PORARS，MONGODB，NOSQL等）聊天。Pandasai使数据分析...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
