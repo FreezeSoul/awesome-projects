@@ -4,14 +4,14 @@
 import os
 from github import Github
 from pathlib import Path
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 import requests
 from tqdm import tqdm
 
 
 REPO_PATH = Path(__file__).resolve().parent
 
-translator = Translator()
+translator = GoogleTranslator(source='auto', target='zh-CN')
 GITHUB_TOKEN = os.getenv("GIT_TOKEN")
 if not GITHUB_TOKEN:
     raise ValueError("GIT_TOKEN is not set or is empty")
@@ -44,7 +44,11 @@ for repo in starred_repos:
     if repo_description and isinstance(repo_description, str):
         if len(repo_description) > 100:
             repo_description = repo_description[:100] + "..."
-        repo_description_zh = translator.translate(repo_description, dest="zh-CN").text
+        try:
+            repo_description_zh = translator.translate(repo_description)
+        except Exception as e:
+            print(f"翻译失败: {e}")
+            repo_description_zh = repo_description
     # 整理成 Markdown 表格格式|项目名|项目链接|项目描述|中文项目描述|
     markdown_content += f"|[{repo_name}]({repo_url})|{repo_description}|[{repo_name}]({repo_url})|{repo_description_zh}|\n"
 
