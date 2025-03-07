@@ -35,11 +35,11 @@
 |[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...|[Amphion](https://github.com/open-mmlab/Amphion)|Amphion（/æmˈfaɪən/）是音频，音乐和语音产生的工具包。它的目的是支持...|
 |[SoniTranslate](https://github.com/R3gm/SoniTranslate)|Synchronized Translation for Videos. Video dubbing|[SoniTranslate](https://github.com/R3gm/SoniTranslate)|视频的同步翻译。视频配音|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|麻省理工学院和Myshell即时克隆。音频基础模型。|
-|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精心策划的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
+|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精选的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文的推理代码“ Spirit-LM交织在一起的口语和书面语言模型”。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻巧的面部识别和面部属性分析（年龄，性别，情感和种族）图书馆...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|维修无效的JSON文件|
-|[json_repair](https://github.com/mangiucugna/json_repair)|A python module to repair invalid JSON, commonly used to parse the output of LLMs|[json_repair](https://github.com/mangiucugna/json_repair)|一个用于修复无效JSON的Python模块，通常用于解析LLMS的输出|
+|[json_repair](https://github.com/mangiucugna/json_repair)|A python module to repair invalid JSON from LLMs|[json_repair](https://github.com/mangiucugna/json_repair)|从LLMS修复无效JSON的Python模块|
 |[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|
 |[tradingbot](https://github.com/toupaiwang/tradingbot)|Solana Trading Bot for Telegram|[tradingbot](https://github.com/toupaiwang/tradingbot)|索拉纳交易机器人的电报|
 |[zerox](https://github.com/getomni-ai/zerox)|OCR & Document Extraction using vision models|[zerox](https://github.com/getomni-ai/zerox)|OCR和文档提取使用视觉模型|
@@ -160,7 +160,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
