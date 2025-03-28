@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[automa](https://github.com/AutomaApp/automa)|A browser extension for automating your browser by connecting blocks|[automa](https://github.com/AutomaApp/automa)|通过连接块来自动化浏览器的浏览器扩展程序|
 |[OpenManus](https://github.com/mannaandpoem/OpenManus)|No fortress, purely open ground.  OpenManus is Coming.|[OpenManus](https://github.com/mannaandpoem/OpenManus)|没有堡垒，纯粹的开阔地面。  开屋即将到来。|
 |[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|Chrome Extension Boilerplate with React + Vite + Typescript|[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|带有React + Vite +打字稿的Chrome扩展样式板|
 |[rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)|RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technolog...|[rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)|RAG Web UI是一个基于抹布（检索仪）技术的智能对话系统...|
@@ -29,7 +30,7 @@
 |[soybean-admin](https://github.com/soybeanjs/soybean-admin)|A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, Na...|[soybean-admin](https://github.com/soybeanjs/soybean-admin)|一个干净，优雅，美丽和功能强大的管理模板，基于VUE3，VITE5，打字稿，Pinia，Na ...|
 |[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A community-supported supercharged version of paperless: scan, index and archive all your physical d...|[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|社区支持的增压版的无纸：扫描，索引和存档您的所有身体D ...|
 |[chatwoot](https://github.com/chatwoot/chatwoot)|Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...|[chatwoot](https://github.com/chatwoot/chatwoot)|开源实时聊天，电子邮件支持，全渠道桌。对Intercom，Zendesk，Salesf ...的替代方案...|
-|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/react/vue）|
+|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）|
 |[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Examples with SwiftUI that showcase various interactions, animations and more|[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Swiftui的示例，展示了各种互动，动画等|
 |[suno-api](https://github.com/gcui-art/suno-api)|Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.|[suno-api](https://github.com/gcui-art/suno-api)|使用API​​称为Suno.ai的音乐一代AI，并轻松地将其集成到GPT之类的代理商中。|
 |[electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|A Foundation for Scalable Cross-Platform Apps|[electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|可扩展跨平台应用的基础|
@@ -73,7 +74,7 @@
 |[database-build](https://github.com/supabase-community/database-build)|In-browser Postgres sandbox with AI assistance (formerly postgres.new)|[database-build](https://github.com/supabase-community/database-build)|浏览器的Postgres Sandbox借助AI协助（以前为Postgres.new）|
 |[OpenHands](https://github.com/All-Hands-AI/OpenHands)|🙌 OpenHands: Code Less, Make More|[OpenHands](https://github.com/All-Hands-AI/OpenHands)|🙌开放式：少代码，做更多|
 |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !|
-|[Follow](https://github.com/RSSNext/Follow)|🧡 Follow everything in one place|[Follow](https://github.com/RSSNext/Follow)|🧡在一个地方遵循一切|
+|[Folo](https://github.com/RSSNext/Folo)|🧡 Follow everything in one place|[Folo](https://github.com/RSSNext/Folo)|🧡在一个地方遵循一切|
 |[open-webui](https://github.com/open-webui/open-webui)|User-friendly AI Interface (Supports Ollama, OpenAI API, ...)|[open-webui](https://github.com/open-webui/open-webui)|用户友好的AI接口（支持Ollama，OpenAi API，...）|
 |[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|
 |[element-react](https://github.com/ElemeFE/element-react)|Element UI|[element-react](https://github.com/ElemeFE/element-react)|元素UI|
@@ -161,7 +162,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
