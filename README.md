@@ -50,7 +50,7 @@
 |[pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast)|Convert any PDF into a podcast episode!|[pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast)|将任何PDF转换为播客剧集！|
 |[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)|
 |[VideoLingo](https://github.com/Huanshere/VideoLingo)|Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated...|[VideoLingo](https://github.com/Huanshere/VideoLingo)|Netflix级字幕切割，翻译，对齐，甚至配音 - 一键完全自动化...|
-|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|PDF to Audio Converter|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|PDF到音频转换器|
+|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|Convert any document into an audio podcast, lecture, summary and others|[PDF2Audio](https://github.com/lamm-mit/PDF2Audio)|将任何文档转换为音频播客，讲座，摘要等|
 |[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|[TextWordExplain](https://github.com/tonyljx/TextWordExplain)|汉语新解|
 |[nanogl](https://github.com/plepers/nanogl)|webgl micro framework|[nanogl](https://github.com/plepers/nanogl)|WebGL微框架|
 |[simple-icons](https://github.com/simple-icons/simple-icons)|SVG icons for popular brands|[simple-icons](https://github.com/simple-icons/simple-icons)|流行品牌的SVG图标|
@@ -160,7 +160,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
