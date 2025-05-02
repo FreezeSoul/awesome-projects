@@ -7,7 +7,7 @@
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
 |[automa](https://github.com/AutomaApp/automa)|A browser extension for automating your browser by connecting blocks|[automa](https://github.com/AutomaApp/automa)|通过连接块来自动化浏览器的浏览器扩展程序|
-|[OpenManus](https://github.com/mannaandpoem/OpenManus)|No fortress, purely open ground.  OpenManus is Coming.|[OpenManus](https://github.com/mannaandpoem/OpenManus)|没有堡垒，纯粹的开阔地面。  开屋即将到来。|
+|[OpenManus](https://github.com/FoundationAgents/OpenManus)|No fortress, purely open ground.  OpenManus is Coming.|[OpenManus](https://github.com/FoundationAgents/OpenManus)|没有堡垒，纯粹的开阔地面。  开屋即将到来。|
 |[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|Chrome Extension Boilerplate with React + Vite + Typescript|[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|带有React + Vite +打字稿的Chrome扩展样式板|
 |[rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)|RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technolog...|[rag-web-ui](https://github.com/rag-web-ui/rag-web-ui)|RAG Web UI是一个基于抹布（检索仪）技术的智能对话系统...|
 |[xyflow](https://github.com/xyflow/xyflow)|React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (ht...|[xyflow](https://github.com/xyflow/xyflow)|反应流| Svelte Flow-功能强大的开源库，用于用React（HT ...|
@@ -30,14 +30,14 @@
 |[soybean-admin](https://github.com/soybeanjs/soybean-admin)|A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, Na...|[soybean-admin](https://github.com/soybeanjs/soybean-admin)|一个干净，优雅，美丽和功能强大的管理模板，基于VUE3，VITE6，Typescript，Pinia，na ...|
 |[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A community-supported supercharged version of paperless: scan, index and archive all your physical d...|[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|社区支持的增压版的无纸：扫描，索引和存档您的所有身体D ...|
 |[chatwoot](https://github.com/chatwoot/chatwoot)|Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...|[chatwoot](https://github.com/chatwoot/chatwoot)|开源实时聊天，电子邮件支持，全渠道桌。对Intercom，Zendesk，Salesf ...的替代方案...|
-|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）|
+|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)|[screenshot-to-code](https://github.com/abi/screenshot-to-code)|放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/react/vue）|
 |[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Examples with SwiftUI that showcase various interactions, animations and more|[SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Swiftui的示例，展示了各种互动，动画等|
 |[suno-api](https://github.com/gcui-art/suno-api)|Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.|[suno-api](https://github.com/gcui-art/suno-api)|使用API​​称为Suno.ai的音乐一代AI，并轻松地将其集成到GPT之类的代理商中。|
 |[electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|A Foundation for Scalable Cross-Platform Apps|[electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)|可扩展跨平台应用的基础|
 |[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...|[Amphion](https://github.com/open-mmlab/Amphion)|Amphion（/æmˈfaɪən/）是音频，音乐和语音产生的工具包。它的目的是支持...|
 |[SoniTranslate](https://github.com/R3gm/SoniTranslate)|Synchronized Translation for Videos. Video dubbing|[SoniTranslate](https://github.com/R3gm/SoniTranslate)|视频的同步翻译。视频配音|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|麻省理工学院和Myshell即时克隆。音频基础模型。|
-|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精心策划的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
+|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精选的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文的推理代码“ Spirit-LM交织在一起的口语和书面语言模型”。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻巧的面部识别和面部属性分析（年龄，性别，情感和种族）图书馆...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|维修无效的JSON文件|
@@ -160,7 +160,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
