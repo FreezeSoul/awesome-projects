@@ -155,12 +155,12 @@
 |[reportlab-doc-zh](https://github.com/hellowac/reportlab-doc-zh)|reportlab 用户手册提取版，并参照过后，整理的中文版。|[reportlab-doc-zh](https://github.com/hellowac/reportlab-doc-zh)|reportlab 用户手册提取版，并参照过后，整理的中文版。|
 |[Reportlab](https://github.com/bjfuliupan/Reportlab)|模板化生成PDF文档。Reportlab|[Reportlab](https://github.com/bjfuliupan/Reportlab)|模板化生成PDF文档。 Reportlab|
 |[streamlit-echarts](https://github.com/andfanilo/streamlit-echarts)|A Streamlit component to render ECharts.|[streamlit-echarts](https://github.com/andfanilo/streamlit-echarts)|简化的组件渲染echarts。|
-|[pygwalker](https://github.com/Kanaries/pygwalker)|PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis|[pygwalker](https://github.com/Kanaries/pygwalker)|Pygwalker：将pandas dataframe变成交互式UI进行视觉分析|
+|[pygwalker](https://github.com/Kanaries/pygwalker)|PyGWalker: Turn your dataframe into an interactive UI for visual analysis|[pygwalker](https://github.com/Kanaries/pygwalker)|Pygwalker：将您的数据框架变成交互式UI进行视觉分析|
 |[prompt-patterns](https://github.com/phodal/prompt-patterns)|Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt|[prompt-patterns](https://github.com/phodal/prompt-patterns)|Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt|
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
