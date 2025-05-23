@@ -6,6 +6,9 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[fish-speech](https://github.com/fishaudio/fish-speech)|SOTA Open Source TTS|[fish-speech](https://github.com/fishaudio/fish-speech)|SOTA开源TTS|
+|[lynx](https://github.com/lynx-family/lynx)|Empower the Web community and invite more to build across platforms.|[lynx](https://github.com/lynx-family/lynx)|增强网络社区的能力，并邀请更多跨平台构建。|
+|[XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)|智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。|[XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)|智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。|
 |[automa](https://github.com/AutomaApp/automa)|A browser extension for automating your browser by connecting blocks|[automa](https://github.com/AutomaApp/automa)|通过连接块来自动化浏览器的浏览器扩展程序|
 |[OpenManus](https://github.com/FoundationAgents/OpenManus)|No fortress, purely open ground.  OpenManus is Coming.|[OpenManus](https://github.com/FoundationAgents/OpenManus)|没有堡垒，纯粹的开阔地面。  开屋即将到来。|
 |[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|Chrome Extension Boilerplate with React + Vite + Typescript|[chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)|带有React + Vite +打字稿的Chrome扩展样式板|
@@ -37,7 +40,7 @@
 |[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...|[Amphion](https://github.com/open-mmlab/Amphion)|Amphion（/æmˈfaɪən/）是音频，音乐和语音产生的工具包。它的目的是支持...|
 |[SoniTranslate](https://github.com/R3gm/SoniTranslate)|Synchronized Translation for Videos. Video dubbing|[SoniTranslate](https://github.com/R3gm/SoniTranslate)|视频的同步翻译。视频配音|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|麻省理工学院和Myshell即时克隆。音频基础模型。|
-|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精心策划的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
+|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精选的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文的推理代码“ Spirit-LM交织在一起的口语和书面语言模型”。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻巧的面部识别和面部属性分析（年龄，性别，情感和种族）图书馆...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|维修无效的JSON文件|
@@ -93,7 +96,7 @@
 |[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|ComfyUI nodes for LivePortrait|[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|comfyui节点的liveportrait节点|
 |[cline](https://github.com/cline/cline)|Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us...|[cline](https://github.com/cline/cline)|您的IDE中的自主编码代理，能够创建/编辑文件，执行命令，我们...|
 |[deepops](https://github.com/deepops-io/deepops)|Observe any stack, any service and any data,  using any UI components you prefer, never missing any ...|[deepops](https://github.com/deepops-io/deepops)|使用您喜欢的任何UI组件观察任何堆栈，任何服务和任何数据，从不丢失任何...|
-|[beat-ai](https://github.com/ibeatai/beat-ai)|<Beat AI> 又名 <零生万物> , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也...|[beat-ai](https://github.com/ibeatai/beat-ai)|<Beat AI> 又名 <零生万物> , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也...|
+|[BeatAI](https://github.com/ibeatai/BeatAI)|持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn|[BeatAI](https://github.com/ibeatai/BeatAI)|持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn|
 |[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|
 |[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|
 |[ComfyUI](https://github.com/comfyanonymous/ComfyUI)|The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.|[ComfyUI](https://github.com/comfyanonymous/ComfyUI)|具有图/节点接口的最强大，最强大的模块化扩散模型GUI，API和后端。|
@@ -160,7 +163,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
@@ -174,7 +177,7 @@
 |[unbug.github.io](https://github.com/unbug/unbug.github.io)|一分钟读文|[unbug.github.io](https://github.com/unbug/unbug.github.io)|一分钟读文|
 |[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi...|[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|AutoGPT是可访问AI的愿景，每个人都可以使用和建立。我们的任务是预言...|
 |[NextChat](https://github.com/ChatGPTNextWeb/NextChat)|✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows|[NextChat](https://github.com/ChatGPTNextWeb/NextChat)|✨轻快的AI助手。支持：Web | ios | macos | Android |  Linux |视窗|
-|[unstructured](https://github.com/Unstructured-IO/unstructured)|Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or pr...|[unstructured](https://github.com/Unstructured-IO/unstructured)|开源库和API构建用于标签，培训或PR的自定义预处理管道...|
+|[unstructured](https://github.com/Unstructured-IO/unstructured)|Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for tran...|[unstructured](https://github.com/Unstructured-IO/unstructured)|将文档毫不费力地转换为结构化数据。非结构化是tran的开源ETL解决方案...|
 |[autogluon](https://github.com/autogluon/autogluon)|Fast and Accurate ML in 3 Lines of Code|[autogluon](https://github.com/autogluon/autogluon)|在3行代码中快速准确的ML|
 |[blog](https://github.com/aehyok/blog)|记录ChatGPT、AI 等,每天Coding工作中，生活中，读到，看到，听到的内容|[blog](https://github.com/aehyok/blog)|记录ChatGPT、AI 等,每天Coding工作中，生活中，读到，看到，听到的内容|
 |[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|[awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|
