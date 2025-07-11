@@ -6,6 +6,14 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[index-tts](https://github.com/index-tts/index-tts)|An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System|[index-tts](https://github.com/index-tts/index-tts)|工业级别可控且高效的零击文本到语音系统|
+|[OpenCut](https://github.com/OpenCut-app/OpenCut)|The open-source CapCut alternative|[OpenCut](https://github.com/OpenCut-app/OpenCut)|开源式盖替代方案|
+|[react-hook-form](https://github.com/react-hook-form/react-hook-form)|📋 React Hooks for form state management and validation (Web + React Native)|[react-hook-form](https://github.com/react-hook-form/react-hook-form)|📋对状态管理和验证表格的挂钩（Web + React Antial）|
+|[ai-chatbot](https://github.com/vercel/ai-chatbot)|A full-featured, hackable Next.js AI chatbot built by Vercel|[ai-chatbot](https://github.com/vercel/ai-chatbot)|由Vercel构建的全功能，可黑客的Next.js AI聊天机器人|
+|[brain.js](https://github.com/BrainJS/brain.js)|🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js|[brain.js](https://github.com/BrainJS/brain.js)|🤖浏览器和node.js的JavaScript中GPU加速了神经网络|
+|[nsfwjs](https://github.com/infinitered/nsfwjs)|NSFW detection on the client-side via TensorFlow.js|[nsfwjs](https://github.com/infinitered/nsfwjs)|通过TensorFlow.js在客户端检测NSFW|
+|[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|
+|[glass](https://github.com/pickle-com/glass)|Digital Mind Extension|[glass](https://github.com/pickle-com/glass)|数字思维扩展|
 |[suna](https://github.com/kortix-ai/suna)|Suna - Open Source Generalist AI Agent|[suna](https://github.com/kortix-ai/suna)|SUNA-开源通才AI代理商|
 |[twitter](https://github.com/python-twitter-tools/twitter)|Python Twitter API|[twitter](https://github.com/python-twitter-tools/twitter)|Python Twitter API|
 |[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|
@@ -51,7 +59,7 @@
 |[Amphion](https://github.com/open-mmlab/Amphion)|Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support...|[Amphion](https://github.com/open-mmlab/Amphion)|Amphion（/æmˈfaɪən/）是音频，音乐和语音产生的工具包。它的目的是支持...|
 |[SoniTranslate](https://github.com/R3gm/SoniTranslate)|Synchronized Translation for Videos. Video dubbing|[SoniTranslate](https://github.com/R3gm/SoniTranslate)|视频的同步翻译。视频配音|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|麻省理工学院和Myshell即时克隆。音频基础模型。|
-|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精选的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
+|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精心策划的远程作业和资源清单。受https：//github.com/vinta/awesome-py的启发...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文的推理代码“ Spirit-LM交织在一起的口语和书面语言模型”。|
 |[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻巧的面部识别和面部属性分析（年龄，性别，情感和种族）图书馆...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|维修无效的JSON文件|
@@ -174,7 +182,7 @@
 |[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|[weekly](https://github.com/ruanyf/weekly)|科技爱好者周刊，每周五发布|
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|PC流或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|Tigerbot：多语言多任务LLM|
-|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是创建Deepfakes的领先软件。|
+|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFacelab是用于创建Deepfakes的领先软件。|
 |[chroma](https://github.com/chroma-core/chroma)|the AI-native open-source embedding database|[chroma](https://github.com/chroma-core/chroma)|ai-native开源嵌入数据库|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据库（SQL，CSV，Parquet）聊天。 Pandasai使数据分析对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|
