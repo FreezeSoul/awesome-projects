@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[agents](https://github.com/contains-studio/agents)|sharing current agents in use|[agents](https://github.com/contains-studio/agents)|共享当前使用的代理|
 |[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|
 |[jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server)|🪐 ✨ Model Context Protocol (MCP) Server for Jupyter.|[jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server)|Jupyter的模型上下文协议（MCP）服务器。|
 |[SwanLab](https://github.com/SwanHubX/SwanLab)|⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Clou...|[SwanLab](https://github.com/SwanHubX/SwanLab)|⚡️Swanlab-一种开源的现代设计AI训练跟踪和可视化工具。支持Clou ...|
