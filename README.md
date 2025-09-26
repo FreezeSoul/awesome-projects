@@ -6,7 +6,9 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
-|[ticket-purchase](https://github.com/WECENG/ticket-purchase)|大麦自动抢票，支持人员、城市、日期场次、价格选择|[ticket-purchase](https://github.com/WECENG/ticket-purchase)|大麦自动抢票，支持人员、城市、日期场次、价格选择|
+|[ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane, ArduCopter, ArduRover, ArduSub source|[ardupilot](https://github.com/ArduPilot/ardupilot)|Arduplane，Arducopter，Ardurover，Ardusub源|
+|[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|solana-idl-lib|[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|索拉纳·伊德利|
+|[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！ 🚀🚀🎉🎉|
 |[style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)|[style2paints](https://github.com/lllyasviel/style2paints)|草图 +样式=油漆：ART ：（ tog2018/siggraph2018asia）|
 |[opentele](https://github.com/thedemons/opentele)|A Python Telegram API Library for converting between tdata and telethon sessions, with built-in offi...|[opentele](https://github.com/thedemons/opentele)|Python Telegram API库，用于在TDATA和Telethon会议之间进行转换，并带有内置的Offi ...|
 |[agents](https://github.com/contains-studio/agents)|sharing current agents in use|[agents](https://github.com/contains-studio/agents)|共享当前使用的代理|
