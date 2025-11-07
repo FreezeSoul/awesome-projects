@@ -6,6 +6,7 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[x402](https://github.com/coinbase/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/coinbase/x402)|互联网支付协议。基于 HTTP 构建。|
 |[agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)|《Agentic Design Patterns》中文翻译版|[agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)|《Agentic Design Patterns》中文翻译版|
 |[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *|[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 免费 HTTP、SOCKS4 和 SOCKS5 代理列表 * 每 5 分钟更新一次 *|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...|[SecLists](https://github.com/danielmiessler/SecLists)|SecLists 是安全测试人员的伴侣。它是在...期间使用的多种类型列表的集合。|
@@ -123,7 +124,7 @@
 |[database-build](https://github.com/supabase-community/database-build)|In-browser Postgres sandbox with AI assistance (formerly postgres.new)|[database-build](https://github.com/supabase-community/database-build)|具有 AI 辅助功能的浏览器内 Postgres 沙箱（以前称为 postgres.new）|
 |[OpenHands](https://github.com/OpenHands/OpenHands)|🙌 OpenHands: Code Less, Make More|[OpenHands](https://github.com/OpenHands/OpenHands)|🙌 OpenHands：更少的代码，更多的成果|
 |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !|
-|[Folo](https://github.com/RSSNext/Folo)|🧡 Follow everything in one place|[Folo](https://github.com/RSSNext/Folo)|🧡 将所有内容集中在一处|
+|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo is the AI Reader|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo 是人工智能阅读器|
 |[open-webui](https://github.com/open-webui/open-webui)|User-friendly AI Interface (Supports Ollama, OpenAI API, ...)|[open-webui](https://github.com/open-webui/open-webui)|用户友好的 AI 界面（支持 Ollama、OpenAI API...）|
 |[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|
 |[element-react](https://github.com/ElemeFE/element-react)|Element UI|[element-react](https://github.com/ElemeFE/element-react)|元素用户界面|
