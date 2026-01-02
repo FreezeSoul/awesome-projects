@@ -6,6 +6,8 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[Detox](https://github.com/wix/Detox)|Gray box end-to-end testing and automation framework for mobile apps|[Detox](https://github.com/wix/Detox)|适用于移动应用程序的灰盒端到端测试和自动化框架|
+|[Maestro](https://github.com/mobile-dev-inc/Maestro)|Painless E2E Automation for Mobile and Web|[Maestro](https://github.com/mobile-dev-inc/Maestro)|适用于移动和 Web 的无痛 E2E 自动化|
 |[snapai](https://github.com/betomoedano/snapai)|AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in se...|[snapai](https://github.com/betomoedano/snapai)|面向 React Native 和 Expo 开发人员的 AI 支持的图标生成 CLI。生成令人惊叹的应用程序图标...|
 |[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates|[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|创建 Solana 应用程序的最快方法🚀 模板 👉 https://github.com/solana-foundation/templates|
 |[x402](https://github.com/coinbase/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/coinbase/x402)|互联网支付协议。基于 HTTP 构建。|
@@ -25,7 +27,7 @@
 |[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)|⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。|[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)|⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。|
 |[transformers](https://github.com/huggingface/transformers)|🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...|[transformers](https://github.com/huggingface/transformers)|🤗 Transformers：最先进的文本机器学习模型的模型定义框架，...|
 |[LLM-Finetune](https://github.com/Zeyi-Lin/LLM-Finetune)|大语言模型微调，Qwen2VL、Qwen2、GLM4指令微调|[LLM-Finetune](https://github.com/Zeyi-Lin/LLM-Finetune)|大语言模型微调，Qwen2VL、Qwen2、GLM4指令微调|
-|[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)|[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|100多个LLM和VLM的统一高效微调（ACL 2024）|
+|[LlamaFactory](https://github.com/hiyouga/LlamaFactory)|Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)|[LlamaFactory](https://github.com/hiyouga/LlamaFactory)|100多个LLM和VLM的统一高效微调（ACL 2024）|
 |[OpenBB](https://github.com/OpenBB-finance/OpenBB)|Financial data platform for analysts, quants and AI agents.|[OpenBB](https://github.com/OpenBB-finance/OpenBB)|面向分析师、量化分析师和人工智能代理的金融数据平台。|
 |[coze-studio](https://github.com/coze-dev/coze-studio)|An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging...|[coze-studio](https://github.com/coze-dev/coze-studio)|一款具有一体化可视化工具的 AI 代理开发平台，可简化代理创建、调试...|
 |[web3-awesome](https://github.com/fltenwall/web3-awesome)|web3百科全书👏🏻 打造 web3 全球第一中文资源|[web3-awesome](https://github.com/fltenwall/web3-awesome)|web3百科全书👏🏻 打造 web3 全球第一中文资源|
