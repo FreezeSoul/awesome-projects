@@ -6,10 +6,11 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[Lean](https://github.com/QuantConnect/Lean)|Lean Algorithmic Trading Engine by QuantConnect (Python, C#)|[Lean](https://github.com/QuantConnect/Lean)|QuantConnect 精益算法交易引擎（Python、C#）|
 |[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|Implementation of MeshPad: Interactive Sketch-Conditioned Artist-Reminiscent Mesh Generation and Edi...|[meshpad-release](https://github.com/DerKleineLi/meshpad-release)|MeshPad 的实现：交互式草图条件艺术家回忆网格生成和编辑...|
 |[openclaw](https://github.com/openclaw/openclaw)|Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |[openclaw](https://github.com/openclaw/openclaw)|您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞|
 |[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)|Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic c...|[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)|通过自动转换将文档网站、GitHub 存储库和 PDF 转换为 Claude AI 技能...|
-|[everything-claude-code](https://github.com/affaan-m/everything-claude-code)|Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle...|[everything-claude-code](https://github.com/affaan-m/everything-claude-code)|完整的克劳德代码配置集合 - 代理、技能、挂钩、命令、规则、MCP。战斗...|
+|[everything-claude-code](https://github.com/affaan-m/everything-claude-code)|The agent harness performance optimization system. Skills, instincts, memory, security, and research...|[everything-claude-code](https://github.com/affaan-m/everything-claude-code)|代理利用性能优化系统。技能、本能、记忆力、安全感和研究……|
 |[the-algorithm](https://github.com/twitter/the-algorithm)|Source code for the X Recommendation Algorithm|[the-algorithm](https://github.com/twitter/the-algorithm)|X推荐算法的源代码|
 |[huobao-drama](https://github.com/chatfire-AI/huobao-drama)|🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama ...|[huobao-drama](https://github.com/chatfire-AI/huobao-drama)|🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama ...|
 |[ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)|An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms|[ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)|为构建专业 UI/UX 多平台提供设计智能的 AI 技能|
@@ -20,7 +21,6 @@
 |[snapai](https://github.com/betomoedano/snapai)|AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in se...|[snapai](https://github.com/betomoedano/snapai)|面向 React Native 和 Expo 开发人员的 AI 支持的图标生成 CLI。生成令人惊叹的应用程序图标...|
 |[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates|[create-solana-dapp](https://github.com/solana-foundation/create-solana-dapp)|创建 Solana 应用程序的最快方法🚀 模板 👉 https://github.com/solana-foundation/templates|
 |[x402](https://github.com/coinbase/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/coinbase/x402)|互联网支付协议。基于 HTTP 构建。|
-|[agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)|《Agentic Design Patterns》中文翻译版|[agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)|《Agentic Design Patterns》中文翻译版|
 |[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *|[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 免费 HTTP、SOCKS4 和 SOCKS5 代理列表 * 每 5 分钟更新一次 *|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...|[SecLists](https://github.com/danielmiessler/SecLists)|SecLists 是安全测试人员的伴侣。它是在...期间使用的多种类型列表的集合。|
 |[memU](https://github.com/NevaMind-AI/memU)|Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).|[memU](https://github.com/NevaMind-AI/memU)|24/7 主动代理的内存，例如 openclaw（moltbot、clawdbot）。|
@@ -194,7 +194,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
