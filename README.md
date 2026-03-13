@@ -156,7 +156,7 @@
 |[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|ComfyUI nodes for LivePortrait|[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|LivePortrait 的 ComfyUI 节点|
 |[cline](https://github.com/cline/cline)|Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us...|[cline](https://github.com/cline/cline)|IDE 中的自主编码代理，能够创建/编辑文件、执行命令、使用...|
 |[deepops](https://github.com/deepops-ai/deepops)|Observe any stack, any service and any data,  using any UI components you prefer, never missing any ...|[deepops](https://github.com/deepops-ai/deepops)|使用您喜欢的任何 UI 组件观察任何堆栈、任何服务和任何数据，绝不会丢失任何...|
-|[beat-ai](https://github.com/OpenGenesisLab/beat-ai)|🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.|[beat-ai](https://github.com/OpenGenesisLab/beat-ai)|🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.|
+|[beatai](https://github.com/beatai-org/beatai)|让 AI 更简单|[beatai](https://github.com/beatai-org/beatai)|让 AI 更简单|
 |[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|
 |[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|
 |[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.|[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。|
@@ -194,7 +194,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
