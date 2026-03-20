@@ -137,7 +137,7 @@
 |[database-build](https://github.com/supabase-community/database-build)|In-browser Postgres sandbox with AI assistance (formerly postgres.new)|[database-build](https://github.com/supabase-community/database-build)|具有 AI 辅助功能的浏览器内 Postgres 沙箱（以前称为 postgres.new）|
 |[OpenHands](https://github.com/OpenHands/OpenHands)|🙌 OpenHands: AI-Driven Development|[OpenHands](https://github.com/OpenHands/OpenHands)|🙌 OpenHands：人工智能驱动的开发|
 |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  |[weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss)|weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !|
-|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo is the AI Reader|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo 是人工智能阅读器|
+|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo is the AI RSS Reader|[Folo](https://github.com/RSSNext/Folo)|🧡 Folo 是人工智能 RSS 阅读器|
 |[open-webui](https://github.com/open-webui/open-webui)|User-friendly AI Interface (Supports Ollama, OpenAI API, ...)|[open-webui](https://github.com/open-webui/open-webui)|用户友好的 AI 界面（支持 Ollama、OpenAI API...）|
 |[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|[ComfyUI_Bxb](https://github.com/zhulu111/ComfyUI_Bxb)|SD变现宝：一键把comfyui工作流转换成小程序。|
 |[element-react](https://github.com/ElemeFE/element-react)|Element UI|[element-react](https://github.com/ElemeFE/element-react)|元素用户界面|
@@ -156,7 +156,7 @@
 |[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|ComfyUI nodes for LivePortrait|[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|LivePortrait 的 ComfyUI 节点|
 |[cline](https://github.com/cline/cline)|Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us...|[cline](https://github.com/cline/cline)|IDE 中的自主编码代理，能够创建/编辑文件、执行命令、使用...|
 |[deepops](https://github.com/deepops-ai/deepops)|Observe any stack, any service and any data,  using any UI components you prefer, never missing any ...|[deepops](https://github.com/deepops-ai/deepops)|使用您喜欢的任何 UI 组件观察任何堆栈、任何服务和任何数据，绝不会丢失任何...|
-|[beatai](https://github.com/beatai-org/beatai)|让 AI 更简单|[beatai](https://github.com/beatai-org/beatai)|让 AI 更简单|
+|[BeatAI](https://github.com/beatai-org/BeatAI)|专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !|[BeatAI](https://github.com/beatai-org/BeatAI)|专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !|
 |[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|
 |[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|
 |[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.|[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。|
@@ -224,7 +224,7 @@
 |[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|Real-time face swap for PC streaming or video calls|[DeepFaceLive](https://github.com/iperov/DeepFaceLive)|用于 PC 流媒体或视频通话的实时面部交换|
 |[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot: A multi-language multi-task LLM|[TigerBot](https://github.com/TigerResearch/TigerBot)|TigerBot：多语言多任务法学硕士|
 |[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab is the leading software for creating deepfakes.|[DeepFaceLab](https://github.com/iperov/DeepFaceLab)|DeepFaceLab 是用于创建深度伪造品的领先软件。|
-|[chroma](https://github.com/chroma-core/chroma)|Open-source search and retrieval database for AI applications.|[chroma](https://github.com/chroma-core/chroma)|适用于人工智能应用的开源搜索和检索数据库。|
+|[chroma](https://github.com/chroma-core/chroma)|Data infrastructure for AI|[chroma](https://github.com/chroma-core/chroma)|人工智能的数据基础设施|
 |[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversat...|[pandas-ai](https://github.com/sinaptik-ai/pandas-ai)|与您的数据库或数据湖（SQL、CSV、parquet）聊天。 PandasAI 让数据分析成为对话...|
 |[box-python-sdk](https://github.com/box/box-python-sdk)|Box SDK for Python|[box-python-sdk](https://github.com/box/box-python-sdk)|适用于 Python 的 Box SDK|
 |[dash](https://github.com/plotly/dash)|Data Apps & Dashboards for Python. No JavaScript Required.|[dash](https://github.com/plotly/dash)|适用于 Python 的数据应用程序和仪表板。无需 JavaScript。|
