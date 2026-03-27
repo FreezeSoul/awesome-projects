@@ -55,7 +55,7 @@
 |[nsfwjs](https://github.com/infinitered/nsfwjs)|NSFW detection on the client-side via TensorFlow.js|[nsfwjs](https://github.com/infinitered/nsfwjs)|通过 TensorFlow.js 在客户端进行 NSFW 检测|
 |[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Servi...|
 |[glass](https://github.com/pickle-com/glass)|Digital Mind Extension|[glass](https://github.com/pickle-com/glass)|数字思维扩展|
-|[suna](https://github.com/kortix-ai/suna)|Kortix – build, manage and train AI Agents.|[suna](https://github.com/kortix-ai/suna)|Kortix – 构建、管理和培训人工智能代理。|
+|[suna](https://github.com/kortix-ai/suna)|Kortix|[suna](https://github.com/kortix-ai/suna)|皮质|
 |[twitter](https://github.com/python-twitter-tools/twitter)|Python Twitter API|[twitter](https://github.com/python-twitter-tools/twitter)|Python 推特 API|
 |[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|
 |[awesome](https://github.com/sindresorhus/awesome)|😎 Awesome lists about all kinds of interesting topics|[awesome](https://github.com/sindresorhus/awesome)|😎 关于各种有趣主题的精彩列表|
@@ -102,7 +102,6 @@
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning by MIT and MyShell. Audio foundation model.|[OpenVoice](https://github.com/myshell-ai/OpenVoice)|MIT 和 MyShell 的即时语音克隆。音频基础模型。|
 |[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-py...|[awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|精彩的远程工作和资源的精选列表。灵感来自 https://github.com/vinta/awesome-py...|
 |[spiritlm](https://github.com/facebookresearch/spiritlm)|Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".|[spiritlm](https://github.com/facebookresearch/spiritlm)|论文“Spirit-LM Interleaved Spoken and Written Language Model”的推理代码。|
-|[deepface](https://github.com/serengil/deepface)|A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...|[deepface](https://github.com/serengil/deepface)|轻量级人脸识别和面部属性分析（年龄、性别、情绪和种族）库...|
 |[jsonrepair](https://github.com/josdejong/jsonrepair)|Repair invalid JSON documents|[jsonrepair](https://github.com/josdejong/jsonrepair)|修复无效的 JSON 文档|
 |[json_repair](https://github.com/mangiucugna/json_repair)|A python module to repair invalid JSON from LLMs|[json_repair](https://github.com/mangiucugna/json_repair)|用于修复 LLM 中无效 JSON 的 python 模块|
 |[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|[1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)|1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。|
@@ -121,7 +120,7 @@
 |[supervision](https://github.com/roboflow/supervision)|We write your reusable computer vision tools. 💜|[supervision](https://github.com/roboflow/supervision)|我们为您编写可重复使用的计算机视觉工具。 💜|
 |[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas is a Cairo backed Canvas implementation for NodeJS.|[node-canvas](https://github.com/Automattic/node-canvas)|Node canvas 是 Cairo 支持的 NodeJS Canvas 实现。|
 |[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|[streamer-card](https://github.com/ygh3279799773/streamer-card)|流光卡片API|
-|[tabler-icons](https://github.com/tabler/tabler-icons)|A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.|[tabler-icons](https://github.com/tabler/tabler-icons)|一组超过 5900 个 MIT 许可的免费高质量 SVG 图标，供您在 Web 项目中使用。|
+|[tabler-icons](https://github.com/tabler/tabler-icons)|A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.|[tabler-icons](https://github.com/tabler/tabler-icons)|一组超过 6000 个 MIT 许可的免费高质量 SVG 图标，供您在 Web 项目中使用。|
 |[generate-avatar](https://github.com/loweisz/generate-avatar)|Generate your 100% fingerprinted example avatar from id, email, username etc.|[generate-avatar](https://github.com/loweisz/generate-avatar)|根据 ID、电子邮件、用户名等生成 100% 指纹示例头像。|
 |[aider](https://github.com/Aider-AI/aider)|aider is AI pair programming in your terminal|[aider](https://github.com/Aider-AI/aider)|aider 是您终端中的 AI 结对编程|
 |[jitcompiler](https://github.com/rajkumardusad/jitcompiler)|JIT Compiler is a open source online code compiler. You can run more than 40+ most popular programmi...|[jitcompiler](https://github.com/rajkumardusad/jitcompiler)|JIT Compiler是一个开源的在线代码编译器。您可以运行 40 多个最受欢迎的程序...|
@@ -156,7 +155,7 @@
 |[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|ComfyUI nodes for LivePortrait|[ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ)|LivePortrait 的 ComfyUI 节点|
 |[cline](https://github.com/cline/cline)|Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us...|[cline](https://github.com/cline/cline)|IDE 中的自主编码代理，能够创建/编辑文件、执行命令、使用...|
 |[deepops](https://github.com/deepops-ai/deepops)|Observe any stack, any service and any data,  using any UI components you prefer, never missing any ...|[deepops](https://github.com/deepops-ai/deepops)|使用您喜欢的任何 UI 组件观察任何堆栈、任何服务和任何数据，绝不会丢失任何...|
-|[BeatAI](https://github.com/beatai-org/BeatAI)|专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !|[BeatAI](https://github.com/beatai-org/BeatAI)|专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !|
+|[BeatAI](https://github.com/beatai-org/BeatAI)|🌶️ 通过 AI 辣评学习 AI，模拟各种明星角色，给大家不一样的学习体验。🦄 BeatAI，一片简单有趣的 AI 大陆，欢迎大家常来住住。|[BeatAI](https://github.com/beatai-org/BeatAI)|🌶️ 通过 AI 辣评学习 AI，模拟各种明星角色，给大家不一样的学习体验。 🦄 BeatAI，一片简单有趣的 AI 大陆，欢迎大家常来住住。|
 |[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|[everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)|人人都能用英语|
 |[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|[MovementDeploy](https://github.com/b1n4he/MovementDeploy)|Movement自动领水及M1测试网部署合约|
 |[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.|[ComfyUI](https://github.com/Comfy-Org/ComfyUI)|最强大的模块化扩散模型 GUI、API 和带有图形/节点接口的后端。|
@@ -185,7 +184,7 @@
 |[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|ControlNet 的 WebUI 扩展|
 |[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散WebUI中文使用手册(旧)|
 |[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy|[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|使用 Pyside6 制作的 UI，使在 sd 脚本中训练 LoRA/LoCon 和其他 LoRA 类型模型变得容易|
-|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统化教程的列表...|
+|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统学习教程的列表...|
 |[ChatIE](https://github.com/cocacola-lab/ChatIE)|The online version is temporarily unavailable because we cannot afford the key. You can clone and ru...|[ChatIE](https://github.com/cocacola-lab/ChatIE)|在线版本暂时无法使用，因为我们买不起密钥。您可以克隆并运行...|
 |[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[bertviz](https://github.com/jessevig/bertviz)|BertViz: Visualize Attention in Transformer Models|[bertviz](https://github.com/jessevig/bertviz)|BertViz：可视化 Transformer 模型中的注意力|
