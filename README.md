@@ -6,6 +6,9 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[huashu-design](https://github.com/alchaincyf/huashu-design)|Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...|[huashu-design](https://github.com/alchaincyf/huashu-design)|Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...|
+|[gsap-skills](https://github.com/greensock/gsap-skills)|Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...|[gsap-skills](https://github.com/greensock/gsap-skills)|GSAP 的官方 AI 技能。这些技能教会 AI 编码代理如何正确使用 GSAP（GreenSoc...|
+|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|用于基于物理的模拟的接触求解器，涉及👚壳、🪵固体和🪢棒。|
 |[react-bits](https://github.com/DavidHDev/react-bits)|An open source collection of animated, interactive & fully customizable React components for buildin...|[react-bits](https://github.com/DavidHDev/react-bits)|动画、交互式和完全可定制的 React 组件的开源集合，用于构建...|
 |[financial-services](https://github.com/anthropics/financial-services)|Claude for Financial Services|[financial-services](https://github.com/anthropics/financial-services)|克劳德金融服务|
 |[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...|[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|一个用于改进 Claude 代码行为的 CLAUDE.md 文件，源自 Andrej Karpathy 的观察...|
@@ -16,7 +19,7 @@
 |[respectaso](https://github.com/respectlytics/respectaso)|Free, open-source ASO keyword research tool — self-hosted via Docker. No API keys, no accounts, no d...|[respectaso](https://github.com/respectlytics/respectaso)|免费开源 ASO 关键词研究工具 — 通过 Docker 自托管。没有 API 密钥、没有帐户、没有数据...|
 |[seomachine](https://github.com/TheCraigHewitt/seomachine)|A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin...|[seomachine](https://github.com/TheCraigHewitt/seomachine)|专门的 Claude Code 工作区，用于为任何企业创建长格式、SEO 优化的博客内容...|
 |[aso-skills](https://github.com/Eronred/aso-skills)|AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app ...|[aso-skills](https://github.com/Eronred/aso-skills)|用于应用商店优化 (ASO) 和应用营销的 AI 代理技能。专为独立开发者打造，应用程序...|
-|[open-seo](https://github.com/every-app/open-seo)|Open source alternative to Semrush and Ahrefs|[open-seo](https://github.com/every-app/open-seo)|Semrush 和 Ahrefs 的开源替代方案|
+|[open-seo](https://github.com/every-app/open-seo)|Open source alternative to Semrush and Ahrefs|[open-seo](https://github.com/every-app/open-seo)|Semrush 和 Ahrefs 的开源替代品|
 |[claude-code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...|[claude-code](https://github.com/anthropics/claude-code)|Claude Code 是一种代理编码工具，位于您的终端中，了解您的代码库，并且...|
 |[pi](https://github.com/earendil-works/pi)|AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods|[pi](https://github.com/earendil-works/pi)|AI 代理工具包：编码代理 CLI、统一 LLM API、TUI 和 Web UI 库、Slack 机器人、vLLM pod|
 |[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|
@@ -26,7 +29,7 @@
 |[career-ops](https://github.com/santifer/career-ops)|AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...|[career-ops](https://github.com/santifer/career-ops)|基于 Claude Code 构建的人工智能求职系统。 14 种技能模式、Go 仪表板、PDF 生成、蝙蝠...|
 |[hermes-agent](https://github.com/NousResearch/hermes-agent)|The agent that grows with you|[hermes-agent](https://github.com/NousResearch/hermes-agent)|与您共同成长的代理商|
 |[OpenCLI](https://github.com/jackwener/OpenCLI)|Make Any Website into CLI & Use your logged-in browser by AI agent. |[OpenCLI](https://github.com/jackwener/OpenCLI)|将任何网站制作成 CLI 并通过 AI 代理使用您登录的浏览器。|
-|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|DESIGN.md 文件的集合，灵感来自流行的品牌设计系统。将一个放入您的项目中...|
+|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...|[awesome-design-md](https://github.com/VoltAgent/awesome-design-md)|流行品牌设计系统的 DESIGN.md 文件分析集合。将一个放入您的项目中...|
 |[agent-skills](https://github.com/addyosmani/agent-skills)|Production-grade engineering skills for AI coding agents.|[agent-skills](https://github.com/addyosmani/agent-skills)|AI 编码代理的生产级工程技能。|
 |[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|TryVoice|[tryvoice-oss](https://github.com/AaronZ021/tryvoice-oss)|尝试语音|
 |[Lean](https://github.com/QuantConnect/Lean)|Lean Algorithmic Trading Engine by QuantConnect (Python, C#)|[Lean](https://github.com/QuantConnect/Lean)|QuantConnect 精益算法交易引擎（Python、C#）|
@@ -78,7 +81,7 @@
 |[nsfwjs](https://github.com/infinitered/nsfwjs)|NSFW detection on the client-side via TensorFlow.js|[nsfwjs](https://github.com/infinitered/nsfwjs)|通过 TensorFlow.js 在客户端进行 NSFW 检测|
 |[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Ser...|[EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：Ser...|
 |[glass](https://github.com/pickle-com/glass)|Digital Mind Extension|[glass](https://github.com/pickle-com/glass)|数字思维扩展|
-|[suna](https://github.com/kortix-ai/suna)|The Autonomous Company Operating System|[suna](https://github.com/kortix-ai/suna)|自治公司操作系统|
+|[suna](https://github.com/kortix-ai/suna)|The Company AI Command Center|[suna](https://github.com/kortix-ai/suna)|公司AI指挥中心|
 |[twitter](https://github.com/python-twitter-tools/twitter)|Python Twitter API|[twitter](https://github.com/python-twitter-tools/twitter)|Python 推特 API|
 |[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|[gemini-balance](https://github.com/snailyp/gemini-balance)|Gemini polling proxy service （gemini轮询代理服务）|
 |[awesome](https://github.com/sindresorhus/awesome)|😎 Awesome lists about all kinds of interesting topics|[awesome](https://github.com/sindresorhus/awesome)|😎 关于各种有趣主题的精彩列表|
@@ -167,7 +170,7 @@
 |[dify](https://github.com/langgenius/dify)|Production-ready platform for agentic workflow development.|[dify](https://github.com/langgenius/dify)|用于代理工作流程开发的生产就绪平台。|
 |[FastGPT](https://github.com/labring/FastGPT)|FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-...|[FastGPT](https://github.com/labring/FastGPT)|FastGPT 是一个建立在法学硕士基础上的知识平台，提供了一套全面的...|
 |[omniparse](https://github.com/adithya-s-k/omniparse)|Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatib...|[omniparse](https://github.com/adithya-s-k/omniparse)|摄取、解析和优化从文档到多媒体的任何数据格式➡️以增强兼容性...|
-|[self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable multimodal models to operate a computer.|[self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|使多模式模型能够操作计算机的框架。|
+|[self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|A framework to enable a multimodal model to operate a computer.|[self-operating-computer](https://github.com/OthersideAI/self-operating-computer)|使多模式模型能够操作计算机的框架。|
 |[StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)|Multi-Platform Package Manager for Stable Diffusion|[StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)|用于稳定扩散的多平台包管理器|
 |[nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI)|The simplest open-source implementation of perplexity.ai|[nanoPerplexityAI](https://github.com/Yusuke710/nanoPerplexityAI)|perplexity.ai 最简单的开源实现|
 |[code-interpreter](https://github.com/e2b-dev/code-interpreter)|Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app |[code-interpreter](https://github.com/e2b-dev/code-interpreter)|Python 和 JS/TS SDK，用于在您的 AI 应用程序中运行 AI 生成的代码/代码解释|
@@ -207,7 +210,7 @@
 |[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|ControlNet 的 WebUI 扩展|
 |[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散WebUI中文使用手册(旧)|
 |[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy|[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|使用 Pyside6 制作的 UI，使在 sd 脚本中训练 LoRA/LoCon 和其他 LoRA 类型模型变得容易|
-|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统学习教程的列表...|
+|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统化教程的列表...|
 |[ChatIE](https://github.com/cocacola-lab/ChatIE)|The online version is temporarily unavailable because we cannot afford the key. You can clone and ru...|[ChatIE](https://github.com/cocacola-lab/ChatIE)|在线版本暂时无法使用，因为我们买不起密钥。您可以克隆并运行...|
 |[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[bertviz](https://github.com/jessevig/bertviz)|BertViz: Visualize Attention in Transformer Models|[bertviz](https://github.com/jessevig/bertviz)|BertViz：可视化 Transformer 模型中的注意力|
@@ -216,7 +219,7 @@
 |[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained mode...|[FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|FinGPT：开源金融大语言模型！  彻底变革 🔥 我们发布了训练模式...|
 |[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 finetuning with deepspeed and lora|[llama2-lora-fine-tuning](https://github.com/git-cloner/llama2-lora-fine-tuning)|llama2 使用 deepspeed 和 lora 进行微调|
 |[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started wit...|[llama-cookbook](https://github.com/meta-llama/llama-cookbook)|欢迎来到骆驼食谱！这是您使用 Llama 进行构建的指南：开始使用...|
-|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币...|
+|[basana](https://github.com/gbeced/basana)|A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies...|[basana](https://github.com/gbeced/basana)|用于算法交易的 Python 异步和事件驱动框架，重点关注加密货币......|
 |[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq: An All-in-One Library for Developing State-of-the-Art Sequence Understanding Models|[AdaSeq](https://github.com/modelscope/AdaSeq)|AdaSeq：用于开发最先进的序列理解模型的一体化库|
 |[AnimateDiff](https://github.com/guoyww/AnimateDiff)|Official implementation of AnimateDiff.|[AnimateDiff](https://github.com/guoyww/AnimateDiff)|AnimateDiff 的正式实现。|
 |[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**Professor Synapse 🧙🏾‍♂️**|[Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse)|**突触教授🧙🏾‍♂️**|
