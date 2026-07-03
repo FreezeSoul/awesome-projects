@@ -6,9 +6,10 @@
 
 |项目名|项目描述|项目名|中文项目描述|
 |---|---|---|---|
+|[dbskill](https://github.com/dontbesilent2025/dbskill)|dontbesilent 的商业诊断 Skills|[dbskill](https://github.com/dontbesilent2025/dbskill)|dontbesilent 的商业诊断 Skills|
 |[huashu-design](https://github.com/alchaincyf/huashu-design)|Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...|[huashu-design](https://github.com/alchaincyf/huashu-design)|Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...|
 |[gsap-skills](https://github.com/greensock/gsap-skills)|Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...|[gsap-skills](https://github.com/greensock/gsap-skills)|GSAP 的官方 AI 技能。这些技能教会 AI 编码代理如何正确使用 GSAP（GreenSoc...|
-|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|用于基于物理的模拟的接触求解器，涉及👚壳、🪵固体和🪢棒。|
+|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies ...|[ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)|用于基于物理的模拟的接触解算器，涉及👚壳、🪵固体、🪢杆、🧱刚体...|
 |[react-bits](https://github.com/DavidHDev/react-bits)|An open source collection of animated, interactive & fully customizable React components for buildin...|[react-bits](https://github.com/DavidHDev/react-bits)|动画、交互式和完全可定制的 React 组件的开源集合，用于构建...|
 |[financial-services](https://github.com/anthropics/financial-services)|Claude for Financial Services|[financial-services](https://github.com/anthropics/financial-services)|克劳德金融服务|
 |[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...|[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)|一个用于改进 Claude 代码行为的 CLAUDE.md 文件，源自 Andrej Karpathy 的观察...|
@@ -19,7 +20,7 @@
 |[respectaso](https://github.com/respectlytics/respectaso)|Free, open-source ASO keyword research tool — self-hosted via Docker. No API keys, no accounts, no d...|[respectaso](https://github.com/respectlytics/respectaso)|免费开源 ASO 关键词研究工具 — 通过 Docker 自托管。没有 API 密钥、没有帐户、没有数据...|
 |[seomachine](https://github.com/TheCraigHewitt/seomachine)|A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin...|[seomachine](https://github.com/TheCraigHewitt/seomachine)|专门的 Claude Code 工作区，用于为任何企业创建长格式、SEO 优化的博客内容...|
 |[aso-skills](https://github.com/Eronred/aso-skills)|AI agent skills for App Store Optimization (ASO) and app marketing. Built for indie developers, app ...|[aso-skills](https://github.com/Eronred/aso-skills)|用于应用商店优化 (ASO) 和应用营销的 AI 代理技能。专为独立开发者打造，应用程序...|
-|[open-seo](https://github.com/every-app/open-seo)|Open source alternative to Semrush and Ahrefs|[open-seo](https://github.com/every-app/open-seo)|Semrush 和 Ahrefs 的开源替代方案|
+|[open-seo](https://github.com/every-app/open-seo)|Open source alternative to Semrush and Ahrefs|[open-seo](https://github.com/every-app/open-seo)|Semrush 和 Ahrefs 的开源替代品|
 |[claude-code](https://github.com/anthropics/claude-code)|Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...|[claude-code](https://github.com/anthropics/claude-code)|Claude Code 是一种代理编码工具，位于您的终端中，了解您的代码库，并且...|
 |[pi](https://github.com/earendil-works/pi)|AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI|[pi](https://github.com/earendil-works/pi)|AI代理工具包：统一LLM API、代理循环、TUI、编码代理CLI|
 |[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|[OpenStore](https://github.com/XiaoChuangll/OpenStore)|OpenStore是一个专注于鸿蒙（HarmonyOS）应用发现与分享的第三方应用商店平台。它致力于为用户提供最新、最热门的鸿蒙应用，包含应用探索、专题推荐、榜单排行、应用投稿等功能。|
@@ -49,7 +50,7 @@
 |[x402](https://github.com/x402-foundation/x402)|A payments protocol for the internet. Built on HTTP.|[x402](https://github.com/x402-foundation/x402)|互联网支付协议。基于 HTTP 构建。|
 |[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *|[free-proxy-list](https://github.com/proxifly/free-proxy-list)|🚀 免费 HTTP、SOCKS4 和 SOCKS5 代理列表 * 每 5 分钟更新一次 *|
 |[SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...|[SecLists](https://github.com/danielmiessler/SecLists)|SecLists 是安全测试人员的伴侣。它是在...期间使用的多种类型列表的集合。|
-|[memU](https://github.com/NevaMind-AI/memU)|Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%|[memU](https://github.com/NevaMind-AI/memU)|工作区内存：将 TB 文件系统转变为代理内存，并将代币成本降低高达 95%|
+|[memU](https://github.com/NevaMind-AI/memU)|Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.|[memU](https://github.com/NevaMind-AI/memU)|座席的个人记忆——快速记忆检索、自我进化技能和更低的成本。|
 |[ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane, ArduCopter, ArduRover, ArduSub source|[ardupilot](https://github.com/ArduPilot/ardupilot)|ArduPlane、ArduCopter、ArduRover、ArduSub 源|
 |[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|Solana-Idl-Lib|[solana-idl-lib](https://github.com/bitquery/solana-idl-lib)|Solana-Idl-Lib|
 |[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|[dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！ 🚀🚀🎉🎉|
@@ -210,7 +211,7 @@
 |[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|WebUI extension for ControlNet|[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)|ControlNet 的 WebUI 扩展|
 |[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|Stable Diffusion WebUI中文使用手冊(舊)|[stable-diffusion-webui-manuals](https://github.com/ivon852/stable-diffusion-webui-manuals)|稳定扩散WebUI中文使用手册(旧)|
 |[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy|[LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts)|使用 Pyside6 制作的 UI，使在 sd 脚本中训练 LoRA/LoCon 和其他 LoRA 类型模型变得容易|
-|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统学习教程的列表...|
+|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic tr...|[awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)|精选的库、包、策略、书籍、博客、系统化教程的列表...|
 |[ChatIE](https://github.com/cocacola-lab/ChatIE)|The online version is temporarily unavailable because we cannot afford the key. You can clone and ru...|[ChatIE](https://github.com/cocacola-lab/ChatIE)|在线版本暂时无法使用，因为我们买不起密钥。您可以克隆并运行...|
 |[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|[WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|
 |[bertviz](https://github.com/jessevig/bertviz)|BertViz: Visualize Attention in Transformer Models|[bertviz](https://github.com/jessevig/bertviz)|BertViz：可视化 Transformer 模型中的注意力|
